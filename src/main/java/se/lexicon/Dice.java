@@ -26,7 +26,7 @@ public enum Dice {
     D100(100) {
         public double roll() {
             Random random = new Random();
-            return random.nextInt(20) + 1;
+            return random.nextInt(100) + 1;
         }
     };
 

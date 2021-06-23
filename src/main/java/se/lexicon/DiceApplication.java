@@ -8,6 +8,10 @@ public class DiceApplication {
         System.out.println(Dice.D10.roll());
         System.out.println(Dice.D20.roll());
         System.out.println(Dice.D100.roll());
+        System.out.println(Dice.D6.roll());
+        System.out.println(Dice.D10.roll());
+        System.out.println(Dice.D20.roll());
+        System.out.println(Dice.D100.roll());
 
 
 
